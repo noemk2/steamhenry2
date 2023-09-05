@@ -1,0 +1,5 @@
+data
+venv
+__pycache__
+otros
+import_data.py

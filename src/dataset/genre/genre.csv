@@ -1,0 +1,589 @@
+genres,play_time
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Early Access']",37397
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",37903
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Racing', 'RPG', 'Simulation', 'Sports', 'Strategy']",0
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer']",372289
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Indie']",50957727
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation']",1694382
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",22617466
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'RPG', 'Strategy']",270228
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'RPG']",23459
+"['Action', 'Adventure', 'Casual', 'Free to Play', 'Racing']",60840
+"['Action', 'Adventure', 'Casual', 'Indie', 'Early Access']",10431
+"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Early Access']",252027
+"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",12421
+"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Racing', 'RPG', 'Simulation', 'Sports', 'Strategy']",215
+"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation']",163
+"['Action', 'Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Strategy']",1948
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Early Access']",75281
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Early Access']",0
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",300
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",16155
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",31617
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy', 'Early Access']",5791
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",237056
+"['Action', 'Adventure', 'Casual', 'Indie', 'RPG']",35366108
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'RPG', 'Simulation', 'Early Access']",886
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'RPG', 'Simulation', 'Sports', 'Strategy']",35679
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'RPG', 'Simulation', 'Sports']",75
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'RPG', 'Simulation', 'Strategy', 'Early Access']",240
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'Simulation', 'Sports']",42
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing', 'Simulation']",7122
+"['Action', 'Adventure', 'Casual', 'Indie', 'Racing']",9947
+"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Early Access']",918
+"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Sports', 'Early Access']",5
+"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Sports']",56950
+"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",152
+"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",82896
+"['Action', 'Adventure', 'Casual', 'Indie', 'Simulation']",56718
+"['Action', 'Adventure', 'Casual', 'Indie', 'Sports', 'Early Access']",1605
+"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy', 'Early Access']",5690
+"['Action', 'Adventure', 'Casual', 'Indie', 'Strategy']",1481657
+"['Action', 'Adventure', 'Casual', 'Indie']",7580679
+"['Action', 'Adventure', 'Casual', 'RPG']",422475
+"['Action', 'Adventure', 'Casual', 'Racing', 'RPG', 'Sports', 'Strategy']",936
+"['Action', 'Adventure', 'Casual', 'Racing']",1469
+"['Action', 'Adventure', 'Casual', 'Simulation', 'Strategy']",1575
+"['Action', 'Adventure', 'Casual', 'Strategy']",305751
+"['Action', 'Adventure', 'Casual']",235694
+"['Action', 'Adventure', 'Early Access', 'Indie', 'Strategy']",4214
+"['Action', 'Adventure', 'Early Access']",3075
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Early Access']",53056
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",35293
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",30204
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",17538241
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'RPG']",162939
+"['Action', 'Adventure', 'Free to Play', 'Indie', 'Simulation', 'Strategy']",9646
+"['Action', 'Adventure', 'Free to Play', 'Indie']",957467
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']",117
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",22966048
+"['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer']",3185
+"['Action', 'Adventure', 'Free to Play', 'RPG', 'Simulation']",260280
+"['Action', 'Adventure', 'Free to Play', 'Simulation', 'Sports']",1394026
+"['Action', 'Adventure', 'Free to Play', 'Sports', 'Strategy']",34826
+"['Action', 'Adventure', 'Free to Play']",664504
+"['Action', 'Adventure', 'Indie', 'Casual']",3371
+"['Action', 'Adventure', 'Indie', 'Early Access']",607362
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",81125274
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Early Access']",91313
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy', 'Early Access']",336013
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",289837
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",39704759
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation', 'Early Access']",247018
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Early Access']",369499
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer', 'Simulation']",753
+"['Action', 'Adventure', 'Indie', 'Massively Multiplayer']",8810
+"['Action', 'Adventure', 'Indie', 'RPG', 'Early Access']",1009658
+"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Early Access']",92813
+"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Sports']",5214
+"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",2019737
+"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",144415
+"['Action', 'Adventure', 'Indie', 'RPG', 'Simulation']",4206779
+"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",42538
+"['Action', 'Adventure', 'Indie', 'RPG', 'Strategy']",404801
+"['Action', 'Adventure', 'Indie', 'RPG']",191266647
+"['Action', 'Adventure', 'Indie', 'Racing', 'Early Access']",163
+"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation', 'Sports', 'Early Access']",42
+"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation', 'Sports']",7615
+"['Action', 'Adventure', 'Indie', 'Racing', 'Simulation']",63125
+"['Action', 'Adventure', 'Indie', 'Racing', 'Sports', 'Strategy']",2783
+"['Action', 'Adventure', 'Indie', 'Racing']",241484
+"['Action', 'Adventure', 'Indie', 'Simulation', 'Early Access']",6582513
+"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy', 'Early Access']",13
+"['Action', 'Adventure', 'Indie', 'Simulation', 'Strategy']",1850335
+"['Action', 'Adventure', 'Indie', 'Simulation']",3942874
+"['Action', 'Adventure', 'Indie', 'Sports']",0
+"['Action', 'Adventure', 'Indie', 'Strategy', 'Early Access']",22605
+"['Action', 'Adventure', 'Indie', 'Strategy']",574043
+"['Action', 'Adventure', 'Indie']",21217102
+"['Action', 'Adventure', 'Massively Multiplayer', 'Early Access']",2444779
+"['Action', 'Adventure', 'Massively Multiplayer', 'RPG']",3175
+"['Action', 'Adventure', 'Massively Multiplayer', 'Simulation', 'Early Access']",15
+"['Action', 'Adventure', 'Massively Multiplayer', 'Simulation']",10
+"['Action', 'Adventure', 'Massively Multiplayer']",2096
+"['Action', 'Adventure', 'RPG', 'Early Access']",11865
+"['Action', 'Adventure', 'RPG', 'Simulation', 'Strategy']",43749
+"['Action', 'Adventure', 'RPG', 'Strategy']",13166
+"['Action', 'Adventure', 'RPG']",14329089
+"['Action', 'Adventure', 'Racing', 'Simulation', 'Strategy']",22848
+"['Action', 'Adventure', 'Racing']",832911
+"['Action', 'Adventure', 'Simulation', 'Early Access']",1217822
+"['Action', 'Adventure', 'Simulation']",291968
+"['Action', 'Adventure', 'Sports']",1718
+"['Action', 'Adventure', 'Strategy']",1127161
+"['Action', 'Adventure']",250970680
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Early Access']",4
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Early Access']",48467
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer']",4765
+"['Action', 'Casual', 'Free to Play', 'Indie', 'RPG', 'Sports', 'Early Access']",3775
+"['Action', 'Casual', 'Free to Play', 'Indie', 'RPG', 'Strategy']",2541
+"['Action', 'Casual', 'Free to Play', 'Indie', 'RPG']",328776
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Racing', 'Simulation', 'Sports', 'Early Access']",129
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Simulation', 'Strategy']",1340
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Simulation']",262709
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Sports', 'Early Access']",6350
+"['Action', 'Casual', 'Free to Play', 'Indie', 'Strategy']",38377
+"['Action', 'Casual', 'Free to Play', 'Indie']",3586396
+"['Action', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Sports']",1503182
+"['Action', 'Casual', 'Free to Play', 'Massively Multiplayer']",1542284
+"['Action', 'Casual', 'Free to Play', 'RPG', 'Simulation', 'Strategy']",18551
+"['Action', 'Casual', 'Free to Play', 'Strategy']",5358
+"['Action', 'Casual', 'Free to Play']",540604
+"['Action', 'Casual', 'Indie', 'Early Access']",24347
+"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation', 'Strategy', 'Early Access']",0
+"['Action', 'Casual', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",1258569
+"['Action', 'Casual', 'Indie', 'RPG', 'Early Access']",6
+"['Action', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",13920
+"['Action', 'Casual', 'Indie', 'RPG', 'Strategy']",47905
+"['Action', 'Casual', 'Indie', 'RPG']",151072
+"['Action', 'Casual', 'Indie', 'Racing', 'Simulation', 'Sports']",21354
+"['Action', 'Casual', 'Indie', 'Racing', 'Simulation']",38935
+"['Action', 'Casual', 'Indie', 'Racing', 'Sports']",3276188
+"['Action', 'Casual', 'Indie', 'Racing']",88950
+"['Action', 'Casual', 'Indie', 'Simulation', 'Early Access']",19
+"['Action', 'Casual', 'Indie', 'Simulation', 'Sports', 'Early Access']",1049
+"['Action', 'Casual', 'Indie', 'Simulation', 'Sports', 'Strategy']",137
+"['Action', 'Casual', 'Indie', 'Simulation', 'Sports']",44
+"['Action', 'Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",32
+"['Action', 'Casual', 'Indie', 'Simulation', 'Strategy']",126109
+"['Action', 'Casual', 'Indie', 'Simulation']",156816
+"['Action', 'Casual', 'Indie', 'Sports', 'Early Access']",65
+"['Action', 'Casual', 'Indie', 'Sports', 'Strategy']",43452
+"['Action', 'Casual', 'Indie', 'Sports']",85645
+"['Action', 'Casual', 'Indie', 'Strategy']",1968108
+"['Action', 'Casual', 'Indie']",3551036
+"['Action', 'Casual', 'Massively Multiplayer', 'Early Access']",11
+"['Action', 'Casual', 'RPG']",124783
+"['Action', 'Casual', 'Simulation', 'Sports', 'Strategy']",32938
+"['Action', 'Casual', 'Simulation', 'Strategy']",164058
+"['Action', 'Casual', 'Simulation']",260
+"['Action', 'Casual', 'Strategy', 'Early Access']",486
+"['Action', 'Casual', 'Strategy']",2409
+"['Action', 'Casual']",229595
+"['Action', 'Early Access']",1004
+"['Action', 'Free to Play', 'Early Access']",1479913
+"['Action', 'Free to Play', 'Indie', 'Early Access']",66482
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']",23435234
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",20609810
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Simulation']",18289
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Sports']",29252
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",22
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy']",13
+"['Action', 'Free to Play', 'Indie', 'Massively Multiplayer']",14550821
+"['Action', 'Free to Play', 'Indie', 'RPG', 'Early Access']",13618
+"['Action', 'Free to Play', 'Indie', 'RPG', 'Strategy']",3762272
+"['Action', 'Free to Play', 'Indie', 'RPG']",114796
+"['Action', 'Free to Play', 'Indie', 'Simulation', 'Strategy', 'Early Access']",111269
+"['Action', 'Free to Play', 'Indie', 'Sports', 'Strategy', 'Early Access']",35623
+"['Action', 'Free to Play', 'Indie', 'Strategy', 'Early Access']",3237159
+"['Action', 'Free to Play', 'Indie', 'Strategy']",12926043
+"['Action', 'Free to Play', 'Indie']",30050148
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Early Access']",344838
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",125387
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",7802
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']",5720606
+"['Action', 'Free to Play', 'Massively Multiplayer', 'RPG']",7830184
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Racing', 'Early Access']",19458
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Racing']",17169
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Simulation', 'Strategy']",910843
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Simulation']",1527230
+"['Action', 'Free to Play', 'Massively Multiplayer', 'Strategy']",1880477
+"['Action', 'Free to Play', 'Massively Multiplayer']",58894873
+"['Action', 'Free to Play', 'RPG', 'Strategy']",476231
+"['Action', 'Free to Play', 'RPG']",123711
+"['Action', 'Free to Play', 'Simulation', 'Strategy']",78746
+"['Action', 'Free to Play', 'Strategy']",1136438
+"['Action', 'Free to Play']",174999716
+"['Action', 'Indie', 'Casual']",117659
+"['Action', 'Indie', 'Early Access']",623629
+"['Action', 'Indie', 'Massively Multiplayer', 'Early Access']",36468757
+"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",6203
+"['Action', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation']",1551690
+"['Action', 'Indie', 'Massively Multiplayer', 'Racing', 'Simulation', 'Sports']",164993
+"['Action', 'Indie', 'Massively Multiplayer']",15875
+"['Action', 'Indie', 'RPG', 'Early Access']",113321
+"['Action', 'Indie', 'RPG', 'Simulation', 'Early Access']",277806
+"['Action', 'Indie', 'RPG', 'Simulation', 'Strategy']",31971
+"['Action', 'Indie', 'RPG', 'Simulation']",1816924
+"['Action', 'Indie', 'RPG', 'Sports']",37201
+"['Action', 'Indie', 'RPG', 'Strategy', 'Early Access']",51801
+"['Action', 'Indie', 'RPG', 'Strategy']",16773141
+"['Action', 'Indie', 'RPG']",18001122
+"['Action', 'Indie', 'Racing', 'Early Access']",17453
+"['Action', 'Indie', 'Racing', 'Simulation', 'Early Access']",26941
+"['Action', 'Indie', 'Racing', 'Simulation', 'Sports', 'Early Access']",430726
+"['Action', 'Indie', 'Racing', 'Simulation', 'Sports']",90458
+"['Action', 'Indie', 'Racing', 'Simulation']",5121
+"['Action', 'Indie', 'Racing', 'Sports']",35947872
+"['Action', 'Indie', 'Racing', 'Strategy']",230586
+"['Action', 'Indie', 'Racing']",439329
+"['Action', 'Indie', 'Simulation', 'Early Access']",45294
+"['Action', 'Indie', 'Simulation', 'Sports', 'Early Access']",155
+"['Action', 'Indie', 'Simulation', 'Sports']",310
+"['Action', 'Indie', 'Simulation', 'Strategy', 'Early Access']",298540
+"['Action', 'Indie', 'Simulation', 'Strategy']",784985
+"['Action', 'Indie', 'Simulation']",5474218
+"['Action', 'Indie', 'Sports', 'Early Access']",280
+"['Action', 'Indie', 'Sports', 'Strategy']",1333
+"['Action', 'Indie', 'Sports']",1380588
+"['Action', 'Indie', 'Strategy', 'Early Access']",1227185
+"['Action', 'Indie', 'Strategy']",32010733
+"['Action', 'Indie']",54218628
+"['Action', 'Massively Multiplayer', 'Early Access']",43
+"['Action', 'Massively Multiplayer', 'RPG']",17572
+"['Action', 'Massively Multiplayer', 'Racing', 'RPG', 'Simulation', 'Early Access']",171
+"['Action', 'Massively Multiplayer', 'Racing']",1132546
+"['Action', 'Massively Multiplayer', 'Simulation', 'Early Access']",259
+"['Action', 'Massively Multiplayer', 'Simulation']",9225819
+"['Action', 'Massively Multiplayer', 'Strategy', 'Early Access']",178
+"['Action', 'Massively Multiplayer']",2633
+"['Action', 'RPG', 'Early Access']",17
+"['Action', 'RPG', 'Indie']",70009
+"['Action', 'RPG', 'Simulation', 'Strategy']",120073
+"['Action', 'RPG', 'Simulation']",3549408
+"['Action', 'RPG', 'Strategy']",1268771
+"['Action', 'RPG']",241741397
+"['Action', 'Racing', 'Early Access']",306
+"['Action', 'Racing', 'RPG']",26701
+"['Action', 'Racing', 'Simulation', 'Sports']",63985
+"['Action', 'Racing', 'Sports']",96619
+"['Action', 'Racing']",1836987
+"['Action', 'Simulation', 'Early Access']",20075
+"['Action', 'Simulation', 'Sports', 'Strategy']",253
+"['Action', 'Simulation', 'Sports']",77565
+"['Action', 'Simulation', 'Strategy']",113374304
+"['Action', 'Simulation']",3225695
+"['Action', 'Sports']",601
+"['Action', 'Strategy', 'Casual']",65297
+"['Action', 'Strategy', 'Early Access']",3764
+"['Action', 'Strategy', 'Indie', 'Casual']",93097
+"['Action', 'Strategy', 'Indie', 'Sports']",494279
+"['Action', 'Strategy', 'Indie']",4869
+"['Action', 'Strategy', 'Simulation']",24728
+"['Action', 'Strategy']",9224435
+['Action'],1338944643
+"['Adventure', 'Casual', 'Early Access']",55977
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",578785
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'RPG', 'Simulation', 'Strategy']",33558251
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'RPG', 'Simulation']",21186
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'RPG']",68389
+"['Adventure', 'Casual', 'Free to Play', 'Indie', 'Simulation']",337080
+"['Adventure', 'Casual', 'Free to Play', 'Indie']",171430
+"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",2923642
+"['Adventure', 'Casual', 'Free to Play', 'Massively Multiplayer', 'Strategy']",426680
+"['Adventure', 'Casual', 'Free to Play', 'RPG', 'Simulation', 'Strategy']",222698
+"['Adventure', 'Casual', 'Free to Play']",38105
+"['Adventure', 'Casual', 'Indie', 'Early Access']",2819
+"['Adventure', 'Casual', 'Indie', 'Massively Multiplayer', 'Simulation']",7416
+"['Adventure', 'Casual', 'Indie', 'RPG', 'Early Access']",6114
+"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",4553
+"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",245394
+"['Adventure', 'Casual', 'Indie', 'RPG', 'Simulation']",111059
+"['Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']",264421
+"['Adventure', 'Casual', 'Indie', 'RPG']",250712
+"['Adventure', 'Casual', 'Indie', 'Racing']",9
+"['Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",3639
+"['Adventure', 'Casual', 'Indie', 'Simulation', 'Strategy']",101574
+"['Adventure', 'Casual', 'Indie', 'Simulation']",258136
+"['Adventure', 'Casual', 'Indie', 'Sports']",0
+"['Adventure', 'Casual', 'Indie', 'Strategy', 'Early Access']",290
+"['Adventure', 'Casual', 'Indie', 'Strategy']",46203
+"['Adventure', 'Casual', 'Indie']",3111167
+"['Adventure', 'Casual', 'RPG', 'Simulation', 'Strategy']",19288
+"['Adventure', 'Casual', 'RPG', 'Strategy']",28697
+"['Adventure', 'Casual', 'RPG']",289872
+"['Adventure', 'Casual', 'Racing']",6313
+"['Adventure', 'Casual', 'Simulation', 'Strategy']",1699
+"['Adventure', 'Casual', 'Simulation']",298181
+"['Adventure', 'Casual', 'Strategy']",2640374
+"['Adventure', 'Casual']",1224746
+"['Adventure', 'Early Access', 'Indie', 'RPG']",2107
+"['Adventure', 'Early Access']",4
+"['Adventure', 'Free to Play', 'Indie', 'Early Access']",222
+"['Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",133343
+"['Adventure', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",28885
+"['Adventure', 'Free to Play', 'Indie', 'RPG', 'Early Access']",6977
+"['Adventure', 'Free to Play', 'Indie', 'RPG']",41357
+"['Adventure', 'Free to Play', 'Indie']",160887
+"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation']",57213
+"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']",1602296
+"['Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']",988220
+"['Adventure', 'Free to Play', 'RPG', 'Strategy']",62161
+"['Adventure', 'Free to Play', 'Simulation']",1652
+"['Adventure', 'Free to Play', 'Strategy']",143519
+"['Adventure', 'Free to Play']",50295
+"['Adventure', 'Indie', 'Casual']",56454
+"['Adventure', 'Indie', 'Early Access']",1073461
+"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Early Access']",0
+"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",17329
+"['Adventure', 'Indie', 'Massively Multiplayer', 'RPG']",10187
+"['Adventure', 'Indie', 'Massively Multiplayer']",76528
+"['Adventure', 'Indie', 'RPG', 'Early Access']",115180
+"['Adventure', 'Indie', 'RPG', 'Simulation', 'Early Access']",9841
+"['Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",86
+"['Adventure', 'Indie', 'RPG', 'Simulation', 'Strategy']",118494
+"['Adventure', 'Indie', 'RPG', 'Simulation']",1469414
+"['Adventure', 'Indie', 'RPG', 'Strategy', 'Early Access']",30119
+"['Adventure', 'Indie', 'RPG', 'Strategy']",6845165
+"['Adventure', 'Indie', 'RPG']",3986322
+"['Adventure', 'Indie', 'Racing']",486
+"['Adventure', 'Indie', 'Simulation', 'Early Access']",32788
+"['Adventure', 'Indie', 'Simulation', 'Strategy', 'Early Access']",497057
+"['Adventure', 'Indie', 'Simulation', 'Strategy']",784313
+"['Adventure', 'Indie', 'Simulation']",11748588
+"['Adventure', 'Indie', 'Sports']",3657
+"['Adventure', 'Indie', 'Strategy']",606340
+"['Adventure', 'Indie']",9805121
+"['Adventure', 'RPG', 'Simulation', 'Strategy']",5003
+"['Adventure', 'RPG', 'Simulation']",762
+"['Adventure', 'RPG', 'Strategy', 'Early Access']",42
+"['Adventure', 'RPG', 'Strategy']",545728
+"['Adventure', 'RPG']",3588947
+"['Adventure', 'Racing', 'Simulation']",1331173
+"['Adventure', 'Racing']",1631
+"['Adventure', 'Simulation', 'Strategy', 'Early Access']",0
+"['Adventure', 'Simulation', 'Strategy']",2777
+"['Adventure', 'Simulation']",516754
+"['Adventure', 'Strategy', 'Indie']",14146
+"['Adventure', 'Strategy']",2165667
+['Adventure'],19649470
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Photo Editing', 'Software Training', 'Utilities', 'Video Production']",422
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Software Training', 'Utilities', 'Early Access']",429
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Software Training', 'Utilities', 'Video Production', 'Web Publishing']",458
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Software Training', 'Utilities', 'Web Publishing']",11307
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Software Training', 'Utilities']",62533
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Utilities', 'Early Access']",17
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education', 'Utilities', 'Web Publishing']",177074
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Education']",1708
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Photo Editing', 'Software Training', 'Utilities', 'Video Production']",101
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Photo Editing', 'Utilities']",38677
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Photo Editing']",5812
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Utilities', 'Video Production']",90757
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Utilities']",37287
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Video Production']",1155880
+"['Animation &amp; Modeling', 'Design &amp; Illustration', 'Web Publishing']",22425
+"['Animation &amp; Modeling', 'Design &amp; Illustration']",71384
+"['Animation &amp; Modeling', 'Education', 'Utilities', 'Web Publishing']",140195
+"['Animation &amp; Modeling', 'Video Production']",162099
+['Animation &amp; Modeling'],28782
+"['Audio Production', 'Design &amp; Illustration', 'Photo Editing', 'Utilities', 'Video Production', 'Web Publishing']",11061
+"['Audio Production', 'Software Training', 'Utilities', 'Video Production', 'Web Publishing']",18715
+"['Audio Production', 'Software Training', 'Utilities', 'Video Production']",439626
+"['Audio Production', 'Software Training']",15599
+"['Audio Production', 'Utilities', 'Video Production']",35
+"['Audio Production', 'Utilities']",69681
+['Audio Production'],1285
+"['Casual', 'Free to Play', 'Indie', 'Early Access']",416481
+"['Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",6932
+"['Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",133229
+"['Casual', 'Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy']",143254
+"['Casual', 'Free to Play', 'Indie', 'RPG', 'Simulation', 'Strategy']",15793
+"['Casual', 'Free to Play', 'Indie', 'RPG', 'Strategy']",5579
+"['Casual', 'Free to Play', 'Indie', 'RPG']",131
+"['Casual', 'Free to Play', 'Indie', 'Racing']",160
+"['Casual', 'Free to Play', 'Indie', 'Simulation', 'Sports', 'Strategy']",13552
+"['Casual', 'Free to Play', 'Indie', 'Simulation', 'Sports']",7
+"['Casual', 'Free to Play', 'Indie', 'Simulation', 'Strategy', 'Early Access']",173959
+"['Casual', 'Free to Play', 'Indie', 'Simulation', 'Strategy']",0
+"['Casual', 'Free to Play', 'Indie', 'Simulation']",242454
+"['Casual', 'Free to Play', 'Indie', 'Sports']",4056
+"['Casual', 'Free to Play', 'Indie', 'Strategy', 'Early Access']",3771
+"['Casual', 'Free to Play', 'Indie', 'Strategy']",310512
+"['Casual', 'Free to Play', 'Indie']",17963850
+"['Casual', 'Free to Play', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",60825
+"['Casual', 'Free to Play', 'Massively Multiplayer', 'RPG']",6133671
+"['Casual', 'Free to Play', 'Massively Multiplayer', 'Simulation']",124493
+"['Casual', 'Free to Play', 'Massively Multiplayer', 'Sports', 'Strategy']",1293
+"['Casual', 'Free to Play', 'Massively Multiplayer', 'Strategy']",3388
+"['Casual', 'Free to Play', 'Massively Multiplayer']",98597
+"['Casual', 'Free to Play', 'RPG', 'Strategy']",267455
+"['Casual', 'Free to Play', 'RPG']",867454
+"['Casual', 'Free to Play', 'Simulation']",29955
+"['Casual', 'Free to Play', 'Sports']",525
+"['Casual', 'Free to Play', 'Strategy']",12728
+"['Casual', 'Free to Play']",199604
+"['Casual', 'Indie', 'Early Access']",15360
+"['Casual', 'Indie', 'Massively Multiplayer', 'Racing']",1145
+"['Casual', 'Indie', 'Massively Multiplayer', 'Strategy']",17415
+"['Casual', 'Indie', 'RPG', 'Early Access']",0
+"['Casual', 'Indie', 'RPG', 'Simulation', 'Sports', 'Strategy']",5201
+"['Casual', 'Indie', 'RPG', 'Simulation', 'Strategy']",7862
+"['Casual', 'Indie', 'RPG', 'Simulation']",470535
+"['Casual', 'Indie', 'RPG', 'Strategy']",431478
+"['Casual', 'Indie', 'RPG']",1056522
+"['Casual', 'Indie', 'Racing', 'Simulation']",3332
+"['Casual', 'Indie', 'Racing', 'Sports']",5
+"['Casual', 'Indie', 'Racing']",259253
+"['Casual', 'Indie', 'Simulation', 'Early Access']",2098
+"['Casual', 'Indie', 'Simulation', 'Sports', 'Early Access']",1810
+"['Casual', 'Indie', 'Simulation', 'Sports', 'Strategy']",202227
+"['Casual', 'Indie', 'Simulation', 'Sports']",44477
+"['Casual', 'Indie', 'Simulation', 'Strategy', 'Early Access']",3164269
+"['Casual', 'Indie', 'Simulation', 'Strategy']",5333383
+"['Casual', 'Indie', 'Simulation']",6327218
+"['Casual', 'Indie', 'Sports', 'Early Access']",615354
+"['Casual', 'Indie', 'Sports', 'Strategy']",64338
+"['Casual', 'Indie', 'Sports']",3073
+"['Casual', 'Indie', 'Strategy', 'Early Access']",49164
+"['Casual', 'Indie', 'Strategy']",2309825
+"['Casual', 'Indie']",3174594
+"['Casual', 'RPG', 'Simulation']",6766
+"['Casual', 'RPG']",197661
+"['Casual', 'Racing', 'Sports']",3
+"['Casual', 'Racing']",64820
+"['Casual', 'Simulation', 'Sports', 'Strategy']",6625
+"['Casual', 'Simulation', 'Sports']",3822
+"['Casual', 'Simulation', 'Strategy']",128253
+"['Casual', 'Simulation']",3349354
+"['Casual', 'Sports']",3779175
+"['Casual', 'Strategy', 'Indie']",1153
+"['Casual', 'Strategy']",752970
+['Casual'],1680933
+"['Design &amp; Illustration', 'Education', 'Utilities']",27
+"['Design &amp; Illustration', 'Education']",0
+"['Design &amp; Illustration', 'Photo Editing', 'Utilities']",148
+"['Design &amp; Illustration', 'Photo Editing']",56352
+"['Design &amp; Illustration', 'Utilities', 'Web Publishing']",37283
+"['Design &amp; Illustration', 'Utilities']",59994
+"['Design &amp; Illustration', 'Web Publishing']",2258341
+['Design &amp; Illustration'],2781
+"['Early Access', 'Indie']",8466
+['Early Access'],2130
+"['Education', 'Software Training', 'Utilities', 'Early Access']",4
+"['Education', 'Software Training', 'Utilities', 'Video Production']",25
+"['Education', 'Software Training', 'Utilities', 'Web Publishing']",9713
+"['Education', 'Software Training']",11635
+['Education'],9
+"['Free to Play', 'Action', 'Strategy', 'Indie', 'Sports']",2052392
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",9651
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Simulation', 'Strategy']",327476
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",5367
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG', 'Strategy']",15361
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'RPG']",786986
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'Racing', 'RPG', 'Strategy']",11508
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'Simulation', 'Sports', 'Strategy']",21975
+"['Free to Play', 'Indie', 'Massively Multiplayer', 'Strategy']",790330
+"['Free to Play', 'Indie', 'Massively Multiplayer']",968572
+"['Free to Play', 'Indie', 'RPG', 'Simulation']",41491
+"['Free to Play', 'Indie', 'RPG', 'Strategy', 'Early Access']",2306
+"['Free to Play', 'Indie', 'RPG', 'Strategy']",51066
+"['Free to Play', 'Indie', 'RPG']",6712
+"['Free to Play', 'Indie', 'Racing', 'Simulation', 'Sports']",29928
+"['Free to Play', 'Indie', 'Racing', 'Simulation']",383
+"['Free to Play', 'Indie', 'Simulation', 'Early Access']",105572
+"['Free to Play', 'Indie', 'Simulation', 'Sports', 'Early Access']",624790
+"['Free to Play', 'Indie', 'Simulation']",630819
+"['Free to Play', 'Indie', 'Sports', 'Strategy']",89952
+"['Free to Play', 'Indie', 'Strategy', 'Early Access']",16981
+"['Free to Play', 'Indie', 'Strategy']",403160
+"['Free to Play', 'Indie']",107225
+"['Free to Play', 'Massively Multiplayer', 'RPG', 'Early Access']",37903
+"['Free to Play', 'Massively Multiplayer', 'RPG', 'Strategy']",25586
+"['Free to Play', 'Massively Multiplayer', 'RPG']",30490864
+"['Free to Play', 'Massively Multiplayer', 'Simulation', 'Sports']",237187
+"['Free to Play', 'Massively Multiplayer', 'Simulation', 'Strategy']",41606
+"['Free to Play', 'Massively Multiplayer', 'Simulation']",371414
+"['Free to Play', 'Massively Multiplayer', 'Strategy']",5922826
+"['Free to Play', 'Massively Multiplayer']",99908
+"['Free to Play', 'RPG', 'Strategy']",890143
+"['Free to Play', 'RPG']",7828
+"['Free to Play', 'Racing', 'Simulation', 'Sports']",300784
+"['Free to Play', 'Simulation', 'Strategy']",676463
+"['Free to Play', 'Simulation']",995057
+"['Free to Play', 'Sports']",42753
+"['Free to Play', 'Strategy', 'Early Access']",7405
+"['Free to Play', 'Strategy']",1898332
+['Free to Play'],140298
+"['Indie', 'Casual', 'Sports']",692
+"['Indie', 'Casual']",611174
+"['Indie', 'Early Access']",275
+"['Indie', 'Massively Multiplayer', 'RPG', 'Early Access']",38272
+"['Indie', 'Massively Multiplayer', 'RPG', 'Strategy', 'Early Access']",130
+"['Indie', 'Massively Multiplayer', 'RPG']",214867
+"['Indie', 'Massively Multiplayer', 'Simulation', 'Strategy']",23902
+"['Indie', 'Massively Multiplayer', 'Strategy', 'Early Access']",437
+"['Indie', 'Massively Multiplayer', 'Strategy']",64230
+"['Indie', 'RPG', 'Early Access']",19336
+"['Indie', 'RPG', 'Simulation', 'Early Access']",1768157
+"['Indie', 'RPG', 'Simulation', 'Strategy', 'Early Access']",55573
+"['Indie', 'RPG', 'Simulation', 'Strategy']",2632830
+"['Indie', 'RPG', 'Simulation']",7056392
+"['Indie', 'RPG', 'Sports', 'Strategy', 'Early Access']",0
+"['Indie', 'RPG', 'Strategy', 'Early Access']",10695
+"['Indie', 'RPG', 'Strategy']",8029277
+"['Indie', 'RPG']",7112346
+"['Indie', 'Racing', 'Early Access']",3819
+"['Indie', 'Racing', 'RPG', 'Sports']",5244
+"['Indie', 'Racing', 'Simulation', 'Early Access']",310
+"['Indie', 'Racing', 'Simulation', 'Sports', 'Early Access']",12712
+"['Indie', 'Racing', 'Simulation', 'Sports']",44266
+"['Indie', 'Racing', 'Sports', 'Early Access']",296
+"['Indie', 'Racing', 'Sports']",110987
+"['Indie', 'Racing']",157098
+"['Indie', 'Simulation', 'Early Access']",2795570
+"['Indie', 'Simulation', 'Sports', 'Early Access']",895
+"['Indie', 'Simulation', 'Sports', 'Strategy', 'Early Access']",25159
+"['Indie', 'Simulation', 'Sports', 'Strategy']",48297
+"['Indie', 'Simulation', 'Sports']",1569046
+"['Indie', 'Simulation', 'Strategy', 'Early Access']",1914636
+"['Indie', 'Simulation', 'Strategy']",30205639
+"['Indie', 'Simulation']",474078437
+"['Indie', 'Sports', 'Strategy']",18662
+"['Indie', 'Sports']",75841
+"['Indie', 'Strategy', 'Early Access']",41037
+"['Indie', 'Strategy']",11330480
+['Indie'],11057489
+"['Massively Multiplayer', 'RPG', 'Early Access']",377665
+"['Massively Multiplayer', 'RPG', 'Simulation']",1280
+"['Massively Multiplayer', 'RPG', 'Strategy']",84
+"['Massively Multiplayer', 'RPG']",13055007
+"['Massively Multiplayer', 'Simulation', 'Sports', 'Early Access']",329
+['Massively Multiplayer'],27013
+"['Photo Editing', 'Software Training', 'Utilities']",0
+"['Photo Editing', 'Utilities', 'Video Production']",174
+['Photo Editing'],2678
+"['RPG', 'Casual', 'Adventure']",207
+"['RPG', 'Casual']",126887
+"['RPG', 'Early Access']",18876
+"['RPG', 'Indie', 'Casual']",3595
+"['RPG', 'Indie']",683300
+"['RPG', 'Simulation', 'Strategy', 'Early Access']",647
+"['RPG', 'Simulation', 'Strategy']",11802864
+"['RPG', 'Simulation']",9361
+"['RPG', 'Strategy', 'Early Access']",12443
+"['RPG', 'Strategy']",8226329
+['RPG'],93255129
+"['Racing', 'Early Access']",50
+"['Racing', 'Simulation', 'Early Access']",1102651
+"['Racing', 'Simulation', 'Sports', 'Early Access']",3421
+"['Racing', 'Simulation', 'Sports', 'Strategy']",11958
+"['Racing', 'Simulation', 'Sports']",1368877
+"['Racing', 'Simulation']",53365
+"['Racing', 'Sports']",4205841
+['Racing'],9345228
+"['Simulation', 'Early Access']",1520
+"['Simulation', 'Sports', 'Early Access']",518
+"['Simulation', 'Sports', 'Strategy']",13709
+"['Simulation', 'Sports']",558849
+"['Simulation', 'Strategy', 'Early Access']",223966
+"['Simulation', 'Strategy']",43083360
+['Simulation'],17951609
+['Software Training'],465
+"['Sports', 'Casual']",22588
+"['Sports', 'Simulation']",5135
+"['Sports', 'Strategy']",1720662
+['Sports'],2508100
+"['Strategy', 'Action', 'Indie']",1058
+"['Strategy', 'Casual']",1068844
+"['Strategy', 'Early Access']",8328
+"['Strategy', 'Indie', 'Casual', 'Simulation']",16571
+"['Strategy', 'Indie', 'Casual']",284067
+"['Strategy', 'Indie']",18050
+"['Strategy', 'RPG', 'Indie']",102719
+"['Strategy', 'RPG']",73871
+"['Strategy', 'Simulation']",388400
+['Strategy'],239537963
+"['Utilities', 'Video Production']",175330
+['Utilities'],3321326
+['Video Production'],354209
+['Web Publishing'],94033
